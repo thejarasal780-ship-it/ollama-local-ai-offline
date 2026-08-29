@@ -1,0 +1,13 @@
+*.sh text eol=lf
+*.ico binary
+public/index.html linguist-vendored
+**/*.py linguist-detectable
+
+*.bat text eol=crlf
+public/*.html linguist-vendored
+*.gif binary
+*.woff2 binary
+*.py linguist-detectable
+
+*.jpg binary
+# eof 698af6c2
